@@ -31,7 +31,7 @@
 ![Spring](https://img.shields.io/badge/-Spring-05122A?style=for-the-badge&color=303446&logo=spring&logoColor=6DB33F)
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=for-the-badge&color=303446&logo=angular&logoColor=DD0031)
 ![Windows](https://img.shields.io/badge/-Windows-05122A?style=for-the-badge&color=303446&logo=windows&logoColor=0078D6)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=for-the-badge&color=303446&logo=ubuntu&logoColor=d64613)
+![Fedora](https://img.shields.io/badge/-Fedora-05122A?style=for-the-badge&color=303446&logo=fedora&logoColor=51A2DA)
 ![NeoVim](https://img.shields.io/badge/-NeoVim-05122A?style=for-the-badge&color=303446&logo=neovim&logoColor=4b9e4b)
 ![IDEA](https://img.shields.io/badge/-IDEA-05122A?style=for-the-badge&color=303446&logo=IntelliJIDEA&logoColor=FFFFFF)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&color=303446&logo=git)
