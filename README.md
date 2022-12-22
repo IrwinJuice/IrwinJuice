@@ -20,7 +20,7 @@
 
 ### Connect with me 📫
 [<img width="32px" alt="LinkedIn" style="margin-right: 10px;" src="https://cdn.icon-icons.com/icons2/2037/PNG/512/in_linked_linkedin_media_social_icon_124259.png">](https://www.linkedin.com/in/maxim-sevriukov/)
-[<img alt="LinkedIn" width="32px" style="margin-right: 10px;" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/discord_icon_130958.png"/>](https://discord.gg/AegTx4h)
+[<img alt="telegram" width="32px" style="margin-right: 10px;" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/telegram_icon_130816.png"/>](https://t.me/irwinjuice)
 
 ### Tools / Languages
 
