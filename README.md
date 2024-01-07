@@ -15,7 +15,7 @@
 -   🔭 I’m currently working on a 
 -->
 - 👀 I’m interested in programming, tech, cycling, youtube, reading, and mach more
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently learning Go
 -   💬 Ask me about anything, I'd be happy to answer ;)
 
 ### Connect with me 📫
