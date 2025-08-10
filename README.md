@@ -15,7 +15,7 @@
 -   🔭 I’m currently working on a 
 -->
 - 👀 I’m interested in programming, tech, cycling, youtube, reading, and mach more
-- 🌱 I’m currently learning Go
+- 🌱 I’m currently learning Rust
 -   💬 Ask me about anything, I'd be happy to answer ;)
 
 ### Connect with me 📫
@@ -40,3 +40,4 @@
 
 <!--<img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=IrwinJuice&show_icons=true&bg_color=303446&border_color=21262d&title_color=f5e0dc&text_color=d9e0ee&icon_color=c9cbff" alt="Github Stats" />-->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IrwinJuice&layout=compact&show_icons=true&bg_color=303446&border_color=21262d&title_color=f5e0dc&text_color=ffffff&icon_color=c9cbff&langs_count=6" alt="Most Used Languages" />
+
