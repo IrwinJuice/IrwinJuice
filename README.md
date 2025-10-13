@@ -1,6 +1,8 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/IrwinJuice/IrwinJuice/main/assets/senya_anim-128px-12.gif" width="128px" height="128px">
   <h1>Hey! I'm IrwinJuice</h1>
+  <img width="32px" alt="UA" src="https://raw.githubusercontent.com/IrwinJuice/IrwinJuice/refs/heads/main/assets/flag.png">
+  <div>#StandWithUkraine</div>
 </div>
 
 
@@ -8,7 +10,7 @@
   <img alig src="https://github-profile-trophy.vercel.app/?username=irwinjuice&theme=nord" alt="Trophies" />
 </p> -->
 
-<img align="right" height=300px width=300px alt="gif" src="https://raw.githubusercontent.com/IrwinJuice/IrwinJuice/main/assets/UniPink-512px-8.gif" />
+<!-- <img align="right" height=300px width=300px alt="gif" src="https://raw.githubusercontent.com/IrwinJuice/IrwinJuice/main/assets/UniPink-512px-8.gif" /> -->
 
 ### About Me
 <!--
@@ -20,7 +22,6 @@
 
 ### Connect with me 📫
 [<img width="32px" alt="LinkedIn" style="margin-right: 10px;" src="https://cdn.icon-icons.com/icons2/1099/PNG/512/1485482199-linkedin_78667.png">](https://www.linkedin.com/in/maxim-sevriukov/)
-[<img alt="telegram" width="32px" style="margin-right: 10px;" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/telegram_icon_130816.png"/>](https://t.me/irwinjuice)
 
 ### Tools / Languages
 
@@ -40,4 +41,5 @@
 
 <!--<img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=IrwinJuice&show_icons=true&bg_color=303446&border_color=21262d&title_color=f5e0dc&text_color=d9e0ee&icon_color=c9cbff" alt="Github Stats" />-->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IrwinJuice&layout=compact&show_icons=true&bg_color=303446&border_color=21262d&title_color=f5e0dc&text_color=ffffff&icon_color=c9cbff&langs_count=6" alt="Most Used Languages" />
+
 
