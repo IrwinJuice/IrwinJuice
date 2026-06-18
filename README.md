@@ -11,7 +11,7 @@
 - 💬 Ask me about anything, I'd be happy to answer ;)
 
 ### Connect with me 📫
-[<img width="32px" alt="LinkedIn" style="margin-right: 10px;" src="https://cdn.icon-icons.com/icons2/1099/PNG/512/1485482199-linkedin_78667.png">](https://www.linkedin.com/in/maxim-sevriukov/)
+[<img width="32px" alt="LinkedIn" style="margin-right: 10px;" src="https://cdn.icon-icons.com/icons2/1099/PNG/512/1485482199-linkedin_78667.png">](https://www.linkedin.com/in/maksym-sevriukov/)
 
 ### Tools / Languages
 
